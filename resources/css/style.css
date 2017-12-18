@@ -104,7 +104,7 @@ header {
   font-family: 'Oswald', sans-serif;
   font-size: 1.2rem;
   font-weight: 300;
-  color: #687083;
+  color: #1#687083;
 }
 
 nav ul {
@@ -509,9 +509,13 @@ video {
   margin-top: 32px;
 }
 
-#thesis div:first-child{
+#thesis div:first-child {
   background-color: #C5CAD7;
   padding-top: 0px;
+}
+
+#thesis .sidebar-block {
+  background-color: #687083;
 }
 
 /*Thesis @1024px*/
